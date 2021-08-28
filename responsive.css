@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1000px) {
 	header {
-		background-color: white;
+		/*background-color: white;*/
 	}
 	.right-header a {
 		font-size: 28px;
@@ -39,7 +39,7 @@
 }
 @media only screen and (max-width: 670px) {
 	header {
-		background-color: blue;
+		/*background-color: blue;*/
 	}
 	.right-header a {
 		font-size: 32px;
