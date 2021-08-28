@@ -1,0 +1,93 @@
+@media only screen and (max-width: 1000px) {
+	header {
+		background-color: white;
+	}
+	.right-header a {
+		font-size: 28px;
+		line-height: 60px;
+	}
+	.big-box {
+		width: 100%;
+	}
+	.big-box h1 {
+		font-size: 48px;
+		font-weight: 900px;
+		margin: 0;
+	}
+	.creative {
+		position: absolute;
+		top: 100px;
+		left: 300px;
+	}
+	.visionary {
+		top: 150px;
+		left: 336px;
+	}
+	.big-box p {
+		top: 200px;
+		left: 380px;
+		width: 37%;
+		font-weight: 500;
+		font-size: 14px;
+	}
+	.vl {
+		height: 1600%;
+	}
+	.vl-counter {
+		height: 600%;
+	}
+}
+@media only screen and (max-width: 670px) {
+	header {
+		background-color: blue;
+	}
+	.right-header a {
+		font-size: 32px;
+		line-height: 60px;
+	}
+	.little-box {
+		width: 245px;
+	}
+	.little-box:hover {
+		width: 300px;
+	}
+	.little-box img {
+		width: 200px;
+		margin-left: 18px;
+		position: absolute;
+		top: 112px;
+	}
+	.big-box h1 {
+		font-size: 36px;
+		font-weight: 900px;
+		margin: 0;
+	}
+	.creative {
+		position: absolute;
+		top: 60px;
+		left: 80px;
+	}
+	.visionary {
+		top: 100px;
+		left: 120px;
+	}
+	.big-box p {
+		top: 150px;
+		left: 278px;
+		width: 28%;
+		font-weight: 500;
+		font-size: 14px;
+	}
+	.vl {
+		/*height: 1025px;*/
+		height: 1300%;
+	}
+	.footer-box {
+		width: 100%;
+	}
+	.footer-box p {
+		font-size: 12px;
+		width: 90%;
+		padding-top: 30px;
+	}
+}
